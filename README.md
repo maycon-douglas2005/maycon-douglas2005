@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Maycon Douglas
 
-Atualmente trabalho como freelancer desenvolvendo essencialmente projetos web.
+Atualmente trabalho como freelancer desenvolvendo essencialmente projetos web, utilizando bootstrap no front-end, e PHP no back-end.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />  
