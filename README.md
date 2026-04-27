@@ -1,35 +1,36 @@
-## Olá! Eu sou o Maycon Douglas
+## Olá! Eu sou o Maycon Douglas 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=500&lines=Desenvolvedor+Web;Freelancer;Front-end+%7C+Back-end;Sempre+evoluindo..." />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=500&lines=Desenvolvedor+Web;Freelancer;Full+Stack+em+evolução;Sempre+aprendendo+e+construindo..." />
 </p>
 
-Desenvolvedor focado em projetos web  
-Atualmente atuando como freelancer  
-
-Trabalho principalmente com:
-- **Front-end:** HTML, CSS, JavaScript, Bootstrap, React  
-- **Back-end:** PHP  
-- **Banco de dados:** MySQL  
+Desenvolvedor Web focado em construir aplicações modernas, eficientes e escaláveis.
+Atualmente atuando como desenvolvedor freelancer. 
+Buscando oportunidade de estágio em desenvolvimento Back-end ou Full Stack.
 
 ---
 
-## Tecnologias 
+## Stack Principal
 
-### Linguagens de Programação
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+### Linguagens
+- JavaScript
+- TypeScript
+- PHP
+- Java
 
 ### Front-end
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+- HTML5, CSS3
+- Bootstrap
+- React
+- Next.js
+
+### Back-end
+- Node.js
+- PHP
+- APIs REST
 
 ### Banco de Dados
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+- MySQL
 
 ---
 
@@ -58,4 +59,4 @@ Trabalho principalmente com:
 
 ---
 
- *Mais do que estudar, eu construo — aprendendo na prática e evoluindo a cada projeto.*
+*Mais do que estudar, eu construo — aprendendo na prática e evoluindo a cada projeto.*
