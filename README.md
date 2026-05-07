@@ -1,51 +1,109 @@
-## Olá! Eu sou o Maycon Douglas 
+<h1 align="center"> Olá, eu sou o Maycon Douglas</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=500&lines=Desenvolvedor+Web;Freelancer;Full+Stack+em+evolução;Sempre+aprendendo+e+construindo..." />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=22&center=true&vCenter=true&width=600&lines=Desenvolvedor+Web;Construindo+Sistemas+Reais;Freelancer+em+evolução;Desenvolvendo+Front-end+e+Back-end" />
 </p>
 
-Desenvolvedor Web focado em construir aplicações modernas, eficientes e escaláveis.
-Atualmente atuando como desenvolvedor freelancer. 
-Buscando oportunidade de estágio em desenvolvimento Back-end ou Full Stack.
+---
+
+##  Projetos em Destaque
+
+<p align="center">
+Visão geral dos principais sistemas e produtos desenvolvidos
+</p>
+
+
+<table>
+  <tr>
+
+<!-- ===================== CAMALEÃO ===================== -->
+<td width="33%" align="center">
+
+## 🟢 Gestão Camaleão
+
+![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
+![Tipo](https://img.shields.io/badge/Projeto-PDV-blue)
+![Role](https://img.shields.io/badge/Role-Team%20Project-purple)
+![Arquitetura](https://img.shields.io/badge/Monorepo-Sim-green)
+
+
+Sistema PDV para pequenos negócios com foco em frente de caixa e gestão comercial.
+
+**Stack:** React • Next.js • TypeScript • Tailwind CSS • Node.js
+
+<a href="https://gestao-camaleao-front.vercel.app/" target="_blank">🔗 Visualizar projeto</a>
+
+</td>
+
+<!-- ===================== MYCONTACTS ===================== -->
+<td width="33%" align="center">
+
+## 🔵 MyContacts
+
+![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
+![Tipo](https://img.shields.io/badge/Projeto-CRUD-blue)
+![Role](https://img.shields.io/badge/Role-Backend%20Focus-orange)
+![CI/CD](https://img.shields.io/badge/GitHub%20Actions-Automatizado-green)
+
+
+Sistema de gerenciamento de contatos com CRUD completo e fluxo profissional de desenvolvimento.
+
+**Stack:** PHP • MySQL • JavaScript • Bootstrap
+
+<a href="https://github.com/maycon-douglas2005/MyContacts" target="_blank">🔗 Visualizar código</a>
+
+</td>
+
+<!-- ===================== ADVOGADA ===================== -->
+<td width="33%" align="center">
+
+## 🟣 Portfólio Advogada
+
+![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
+![Tipo](https://img.shields.io/badge/Website-Institucional-blue)
+![Role](https://img.shields.io/badge/Role-Frontend-green)
+![UX](https://img.shields.io/badge/Foco-Responsivo-purple)
+
+
+Website institucional responsivo para apresentação profissional.
+
+**Stack:** HTML • CSS • JavaScript • Bootstrap
+
+<a href="https://ingrid-chaves-advocacia.vercel.app" target="_blank">🔗 Visualizar projeto</a>
+
+</td>
+
+  </tr>
+</table>
 
 ---
 
-## Stack Principal
+## 🧠 Sobre mim
 
-### Linguagens
-- JavaScript
-- TypeScript
-- PHP
-- Java
+Desenvolvedor web com experiência na construção de aplicações utilizando PHP, MySQL e Bootstrap, além de React, Next.js e TypeScript.
 
-### Front-end
-- HTML5, CSS3
-- Bootstrap
-- React
-- Next.js
+Atuo em projetos próprios e colaborativos, desenvolvendo aplicações tanto no front-end quanto no back-end.
 
-### Back-end
-- Node.js
-- PHP
-- APIs REST
+Participo do desenvolvimento de projetos como sistemas de gerenciamento de contatos e sistemas PDV, incluindo deploy automatizado com GitHub Actions e integração com APIs.
 
-### Banco de Dados
-- MySQL
+Sou formado em Análise e Desenvolvimento de Sistemas pela Fundação Santo André e atualmente curso Engenharia de Software pela UNINTER.
+
+Busco uma oportunidade de estágio em desenvolvimento de software, onde eu possa evoluir tecnicamente, contribuir com projetos reais e ampliar minha experiência na área de tecnologia.
 
 ---
 
-## GitHub Stats
+## ⚙️ Stack
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=maycon-douglas2005&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maycon-douglas2005&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+**Front-end:** React • Next.js • TypeScript • Tailwind CSS • Bootstrap • JavaScript • HTML • CSS  
+**Back-end:** PHP • Node.js • APIs REST  
+**Banco:** MySQL  
+**Ferramentas:** Git • GitHub • GitHub Actions • Jira • Figma  
 
 ---
 
-## Contato
+## 📫 Contato
 
-<p align="left">
+<p align="center">
   <a href="https://wa.me/5511947072781">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
@@ -59,4 +117,6 @@ Buscando oportunidade de estágio em desenvolvimento Back-end ou Full Stack.
 
 ---
 
-*Mais do que estudar, eu construo — aprendendo na prática e evoluindo a cada projeto.*
+<p align="center">
+<i>Construindo sistemas reais com consistência, evolução contínua e foco em produto.</i>
+</p>
