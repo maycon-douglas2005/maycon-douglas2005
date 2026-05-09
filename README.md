@@ -1,17 +1,17 @@
-<h1 align="center"> Olá, eu sou o Maycon Douglas</h1>
+<h1 align="center">
+  Maycon Douglas <br>
+  <sup>Desenvolvedor Web</sup>
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=22&center=true&vCenter=true&width=600&lines=Desenvolvedor+Web;Construindo+Sistemas+Reais;Freelancer+em+evolução;Desenvolvendo+Front-end+e+Back-end" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=22&center=true&vCenter=true&width=600&lines=Desenvolvedor+Web;Construindo+Sistemas+Reais;Desenvolvendo+Soluções+Web;Front-end+e+Back-end" />
 </p>
 
----
-
-##  Projetos em Destaque
+<h2 align="center">📂 Projetos em Destaque</h2>
 
 <p align="center">
 Visão geral dos principais sistemas e produtos desenvolvidos
 </p>
-
 
 <table>
   <tr>
@@ -25,12 +25,10 @@ Visão geral dos principais sistemas e produtos desenvolvidos
   <img src="https://raw.githubusercontent.com/maycon-douglas2005/maycon-douglas2005/main/GestaoCamaleao.png" width="100%" />
 </a>
 
-
 ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
 ![Tipo](https://img.shields.io/badge/Projeto-PDV-blue)
-![Role](https://img.shields.io/badge/Role-Team%20Project-purple)
+![Role](https://img.shields.io/badge/Role-Desenvolvimento%20em%20Equipe-purple)
 ![Arquitetura](https://img.shields.io/badge/Monorepo-Sim-green)
-
 
 Sistema PDV para pequenos negócios com foco em frente de caixa e gestão comercial.
 
@@ -51,9 +49,8 @@ Sistema PDV para pequenos negócios com foco em frente de caixa e gestão comerc
 
 ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
 ![Tipo](https://img.shields.io/badge/Projeto-CRUD-blue)
-![Role](https://img.shields.io/badge/Role-Backend%20Focus-orange)
+![Role](https://img.shields.io/badge/Role-Desenvolvimento%20Backend-orange)
 ![CI/CD](https://img.shields.io/badge/GitHub%20Actions-Automatizado-green)
-
 
 Sistema de gerenciamento de contatos com CRUD completo e fluxo profissional de desenvolvimento.
 
@@ -74,9 +71,8 @@ Sistema de gerenciamento de contatos com CRUD completo e fluxo profissional de d
 
 ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
 ![Tipo](https://img.shields.io/badge/Website-Institucional-blue)
-![Role](https://img.shields.io/badge/Role-Frontend-green)
+![Role](https://img.shields.io/badge/Role-Desenvolvimento%20Frontend-green)
 ![UX](https://img.shields.io/badge/Foco-Responsivo-purple)
-
 
 Website institucional responsivo para apresentação profissional.
 
@@ -93,7 +89,7 @@ Website institucional responsivo para apresentação profissional.
 
 ## 🧠 Sobre mim
 
-Desenvolvedor web com experiência na construção de aplicações utilizando PHP, MySQL e Bootstrap, além de React, Next.js e TypeScript.
+Desenvolvedor Web com experiência na construção de aplicações utilizando PHP, MySQL e Bootstrap, além de React, Next.js e TypeScript.
 
 Atuo em projetos próprios e colaborativos, desenvolvendo aplicações tanto no front-end quanto no back-end.
 
@@ -110,7 +106,7 @@ Busco uma oportunidade de estágio em desenvolvimento de software, onde eu possa
 **Front-end:** React • Next.js • TypeScript • Tailwind CSS • Bootstrap • JavaScript • HTML • CSS  
 **Back-end:** PHP • Node.js • APIs REST  
 **Banco:** MySQL  
-**Ferramentas:** Git • GitHub • GitHub Actions • Jira • Figma  
+**Ferramentas:** Git • GitHub • GitHub Actions • Jira • Figma
 
 ---
 
@@ -120,9 +116,11 @@ Busco uma oportunidade de estágio em desenvolvimento de software, onde eu possa
   <a href="https://wa.me/5511947072781">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
+
   <a href="mailto:mayconchaves2005@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
   <a href="https://www.linkedin.com/in/maycon-douglas-73015522b">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
