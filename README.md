@@ -21,6 +21,11 @@ Visão geral dos principais sistemas e produtos desenvolvidos
 
 ## 🟢 Gestão Camaleão
 
+<a href="https://gestao-camaleao-front.vercel.app/" target="_blank">
+  <img src="https://raw.githubusercontent.com/maycon-douglas2005/maycon-douglas2005/main/GestaoCamaleao.png" width="100%" />
+</a>
+
+
 ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
 ![Tipo](https://img.shields.io/badge/Projeto-PDV-blue)
 ![Role](https://img.shields.io/badge/Role-Team%20Project-purple)
@@ -40,6 +45,10 @@ Sistema PDV para pequenos negócios com foco em frente de caixa e gestão comerc
 
 ## 🔵 MyContacts
 
+<a href="https://github.com/maycon-douglas2005/MyContacts" target="_blank">
+  <img src="https://raw.githubusercontent.com/maycon-douglas2005/maycon-douglas2005/main/MyContacs.png" width="100%" />
+</a>
+
 ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
 ![Tipo](https://img.shields.io/badge/Projeto-CRUD-blue)
 ![Role](https://img.shields.io/badge/Role-Backend%20Focus-orange)
@@ -58,6 +67,10 @@ Sistema de gerenciamento de contatos com CRUD completo e fluxo profissional de d
 <td width="33%" align="center">
 
 ## 🟣 Portfólio Advogada
+
+<a href="https://ingrid-chaves-advocacia.vercel.app" target="_blank">
+  <img src="https://raw.githubusercontent.com/maycon-douglas2005/maycon-douglas2005/main/WebsiteAdvogada.png" width="100%" />
+</a>
 
 ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
 ![Tipo](https://img.shields.io/badge/Website-Institucional-blue)
