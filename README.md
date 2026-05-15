@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=22&center=true&vCenter=true&width=600&lines=Desenvolvedor+Web;Construindo+Sistemas+Reais;Desenvolvendo+Soluções+Web;Front-end+e+Back-end" />
 </p>
 
-<h2 align="center">📂 Projetos em Destaque</h2>
+<h2 align="center">Projetos em Destaque</h2>
 
 <p align="center">
 Visão geral dos principais sistemas e produtos desenvolvidos
@@ -19,7 +19,7 @@ Visão geral dos principais sistemas e produtos desenvolvidos
 <!-- ===================== CAMALEÃO ===================== -->
 <td width="33%" align="center">
 
-## 🟢 Gestão Camaleão
+## Gestão Camaleão
 
 <a href="https://gestao-camaleao-front.vercel.app/" target="_blank">
   <img src="https://raw.githubusercontent.com/maycon-douglas2005/maycon-douglas2005/main/GestaoCamaleao.png" width="100%" />
@@ -34,20 +34,20 @@ Sistema PDV para pequenos negócios com foco em frente de caixa e gestão comerc
 
 **Stack:** React • Next.js • TypeScript • Tailwind CSS • Node.js
 
-<a href="https://gestao-camaleao-front.vercel.app/" target="_blank">🔗 Visualizar projeto</a>
+<a href="https://gestao-camaleao-front.vercel.app/" target="_blank">Visualizar projeto</a>
 
 </td>
 
 <!-- ===================== MYCONTACTS ===================== -->
 <td width="33%" align="center">
 
-## 🔵 MyContacts
+## MyContacts
 
 <a href="https://github.com/maycon-douglas2005/MyContacts" target="_blank">
-  <img src="https://raw.githubusercontent.com/maycon-douglas2005/maycon-douglas2005/main/MyContacs.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/maycon-douglas2005/maycon-douglas2005/main/home_mycontacts.png" width="100%" />
 </a>
 
-![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
+![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
 ![Tipo](https://img.shields.io/badge/Projeto-CRUD-blue)
 ![Role](https://img.shields.io/badge/Role-Desenvolvimento%20Backend-orange)
 ![CI/CD](https://img.shields.io/badge/GitHub%20Actions-Automatizado-green)
@@ -56,14 +56,14 @@ Sistema de gerenciamento de contatos com CRUD completo e fluxo profissional de d
 
 **Stack:** PHP • MySQL • JavaScript • Bootstrap
 
-<a href="https://github.com/maycon-douglas2005/MyContacts" target="_blank">🔗 Visualizar código</a>
+<a href="https://https://mycontacts.page.gd" target="_blank">Visualizar Projeto</a>
 
 </td>
 
 <!-- ===================== ADVOGADA ===================== -->
 <td width="33%" align="center">
 
-## 🟣 Portfólio Advogada
+## Portfólio Advogada
 
 <a href="https://ingrid-chaves-advocacia.vercel.app" target="_blank">
   <img src="https://raw.githubusercontent.com/maycon-douglas2005/maycon-douglas2005/main/WebsiteAdvogada.png" width="100%" />
@@ -78,7 +78,7 @@ Website institucional responsivo para apresentação profissional.
 
 **Stack:** HTML • CSS • JavaScript • Bootstrap
 
-<a href="https://ingrid-chaves-advocacia.vercel.app" target="_blank">🔗 Visualizar projeto</a>
+<a href="https://ingrid-chaves-advocacia.vercel.app" target="_blank">Visualizar projeto</a>
 
 </td>
 
@@ -87,7 +87,7 @@ Website institucional responsivo para apresentação profissional.
 
 ---
 
-## 🧠 Sobre mim
+## Sobre mim
 
 Desenvolvedor Web com experiência na construção de aplicações utilizando PHP, MySQL e Bootstrap, além de React, Next.js e TypeScript.
 
@@ -101,7 +101,7 @@ Busco uma oportunidade de estágio em desenvolvimento de software, onde eu possa
 
 ---
 
-## ⚙️ Stack
+## Stack
 
 **Front-end:** React • Next.js • TypeScript • Tailwind CSS • Bootstrap • JavaScript • HTML • CSS  
 **Back-end:** PHP • Node.js • APIs REST  
@@ -110,7 +110,7 @@ Busco uma oportunidade de estágio em desenvolvimento de software, onde eu possa
 
 ---
 
-## 📫 Contato
+## Contato
 
 <p align="center">
   <a href="https://wa.me/5511947072781">
