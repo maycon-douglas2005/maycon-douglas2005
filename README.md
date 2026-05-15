@@ -56,7 +56,7 @@ Sistema de gerenciamento de contatos com CRUD completo e fluxo profissional de d
 
 **Stack:** PHP • MySQL • JavaScript • Bootstrap
 
-<a href="https://https://mycontacts.page.gd" target="_blank">Visualizar Projeto</a>
+<a href="https://mycontacts.page.gd" target="_blank">Visualizar Projeto</a>
 
 </td>
 
