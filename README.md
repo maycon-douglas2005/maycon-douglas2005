@@ -44,10 +44,10 @@ Sistema PDV para pequenos negócios com foco em frente de caixa e gestão comerc
 ## MyContacts
 
 <a href="https://github.com/maycon-douglas2005/MyContacts" target="_blank">
-  <img src="https://raw.githubusercontent.com/maycon-douglas2005/maycon-douglas2005/main/home_mycontacts.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/maycon-douglas2005/maycon-douglas2005/main/mycontacts_github.png" width="100%" />
 </a>
 
-![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
+![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
 ![Tipo](https://img.shields.io/badge/Projeto-CRUD-blue)
 ![Role](https://img.shields.io/badge/Role-Desenvolvimento%20Backend-orange)
 ![CI/CD](https://img.shields.io/badge/GitHub%20Actions-Automatizado-green)
